@@ -1,0 +1,10 @@
+{
+  "build": {
+    "production": {
+      "node": "18.16.0",
+      "yarn": true,
+      "cli": "latest",
+      "buildType": "app-bundle"
+    }
+  }
+}

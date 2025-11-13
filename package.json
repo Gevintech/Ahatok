@@ -3,13 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
-  },
   "dependencies": {
     "expo": "~49.0.0",
     "expo-file-system": "~15.2.2",
@@ -17,10 +10,7 @@
     "react-dom": "18.2.0",
     "react-native": "0.72.0",
     "react-native-web": "~0.19.20",
-    "lucide-react-native": "^0.264.0",
+    "lucide-react-native": "0.264.0",
     "uuid": "^9.0.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.22.5"
   }
 }
